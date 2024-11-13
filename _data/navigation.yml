@@ -6,4 +6,5 @@
   link: /contact.md
 - name: Acerca de
   link: /about.md
-- name: /feed.xml
+- name: RSS
+  link: /feed.xml
