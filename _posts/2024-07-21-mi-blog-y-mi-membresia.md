@@ -3,7 +3,7 @@ layout: post
 author: Zetta Founder
 title: "Mi blog y mi membresía"
 tags: blog
-date: 2024-07-21 04:00:00 -0600
+date: 2024-07-21 11:00:00 -0600
 ---
 
 **Diferencia entre mi blog en btw y la membresía en Buy me a coffe**
