@@ -3,8 +3,7 @@ layout: page
 title: Sobre mí
 ---
 
-![](https://nyc3.digitaloceanspaces.com/btw-writer-prod/1721246076652%2F1000000907.jpg)
-!(https://nyc3.digitaloceanspaces.com/btw-writer-prod/1721246076652%2F1000000907.jpg)
+![](https://nyc3.digitaloceanspaces.com/btw-writer-prod/1729065469686%2F1000020265.png)
 
 Hola.
 
@@ -17,3 +16,5 @@ Aunque trato de siempre publicar contenido con conciencia, hay redes en donde so
 Gracias por ser parte del camino.
 
 Contacto y otras redes: [BIO.LINK/ZETTAFOUNDER](https://bio.link/zettafounder)
+
+Contacto y otras redes: <a href="https://bio.link/zettafounder" target="_blank">BIO.LINK/ZETTAFOUNDER</a>
