@@ -1,4 +1,4 @@
-- name: Blog
-  link: /blog.md
+- name: Inicio
+  link: /index.md
 - name: Ahora
   link: /now.md
