@@ -3,7 +3,8 @@ layout: page
 title: Sobre mí
 ---
 
-
+![](https://nyc3.digitaloceanspaces.com/btw-writer-prod/1721246076652%2F1000000907.jpg)
+!(https://nyc3.digitaloceanspaces.com/btw-writer-prod/1721246076652%2F1000000907.jpg)
 
 Hola.
 
