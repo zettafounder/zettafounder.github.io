@@ -15,6 +15,4 @@ Aunque trato de siempre publicar contenido con conciencia, hay redes en donde so
 
 Gracias por ser parte del camino.
 
-Contacto y otras redes: [BIO.LINK/ZETTAFOUNDER](https://bio.link/zettafounder)
-
 Contacto y otras redes: <a href="https://bio.link/zettafounder" target="_blank">BIO.LINK/ZETTAFOUNDER</a>
