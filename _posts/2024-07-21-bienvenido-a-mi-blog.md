@@ -3,6 +3,7 @@ layout: post
 author: Zetta Founder
 title: "Bienvenido a mi blog"
 tags: blog
+date: 2024-07-21 05:00:00 -0600
 ---
 
 Aquí comparto mis pensamientos, enfocados principalmente en una forma diferente de vivir la vida.
