@@ -4,7 +4,7 @@ title: Sobre mí
 update: 2024-11-13 04:40:00 -0600
 ---
 
-![Zetta Founder](https://nyc3.digitaloceanspaces.com/btw-writer-prod/1729065469686%2F1000020265.png Zetta Founder)
+![Zetta Founder](https://nyc3.digitaloceanspaces.com/btw-writer-prod/1729065469686%2F1000020265.png)
 
 Hola, soy **Zetta Founder**.
 
