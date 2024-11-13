@@ -4,8 +4,6 @@ title: Ahora
 update: 2024-11-13
 ---
 
-# Ahora
-
 Panorama actual de mi vida en general.
 
 - Temporada: ZFT00WA24
