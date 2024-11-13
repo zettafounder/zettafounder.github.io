@@ -7,4 +7,4 @@
 - name: Acerca de
   link: /about.md
 - name: RSS
-  link: /feed.xml
+  link: https://zettafounder.github.io/feed.xml
