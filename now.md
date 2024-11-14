@@ -12,7 +12,7 @@ Panorama actual de mi vida en general.
 - ZettaFounderT00
 - WinterArcT01E02
 
-(sí, divido mi vida en remporadas)
+(sí, divido mi vida en temporadas)
 
 ## Podcast y Programas
 - Saqh T00 (emisión)
@@ -36,4 +36,4 @@ Panorama actual de mi vida en general.
 - Centro de Bitz
 - Zetta Hard Community
 
-Actualizado: 13 nov, 2024
+Actualizado: 14 nov, 2024
