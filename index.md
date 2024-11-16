@@ -6,8 +6,6 @@ layout: home
 
 **En que ando ahora:** [Ahora](/now.html)
 
-**Temporada actual:**  [ZF.0.WA.24](https://zettafounder.github.io/temporadas/zf0wa24.html)
-
 ## Ultimos posts
 
 {% assign i_posts = site.posts %}
