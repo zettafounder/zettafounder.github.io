@@ -2,8 +2,7 @@
 layout: home
 ---
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-
-## Inicio
+# Inicio
 
 **En que ando ahora:** [Ahora](/now.html)
 
