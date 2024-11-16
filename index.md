@@ -5,6 +5,8 @@ layout: home
 
 **En que ando ahora:** [Ahora](/now.html)
 
+<hr>
+
 ## Ultimos posts
 
 {% assign i_posts = site.posts %}
