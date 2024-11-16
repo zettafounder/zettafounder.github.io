@@ -13,7 +13,7 @@ layout: home
 {% assign i_posts = site.posts %}
 
 {% for post in i_posts | limit: 3 %}
-  <h4>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ post.date | date: date_format }}
     </time>
@@ -23,5 +23,5 @@ layout: home
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></h4> 
+    {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
 {% endfor %}
