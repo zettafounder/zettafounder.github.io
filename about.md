@@ -4,18 +4,15 @@ title: Sobre mí
 update: 2024-11-16 04:40:00 -0600
 ---
 
-![Zetta Founder](https://nyc3.digitaloceanspaces.com/btw-writer-prod/1729065469686%2F1000020265.png)
+> Se lo suficientemente bueno.
 
-Hola, soy **Zetta Founder**.
+**Divido mi vida en temporadas**
+- **Temporada actual:** [ZF.0.WA.24](https://zettafounder.github.io/temporadas/zf0wa24.html) (puedes encontrar todas las temporadas en el menu de navegación de la página)
 
-A lo largo de mi vida he tenido una constante curiosidad por “otra vida”, ¿existe una forma diferente de vivir?
+**Actualizaciones**
+- Un poco de en lo que ando ahora: [Ahora](/now.html)
+- Actualizaciones en tiempo real: <a target="_blank" href="https://t.me/zettafounder">Telegram</a>
 
-Acompáñame a reflexionar sobre esto, con cada post que hago en mis diferentes blogs o redes me acerco más a esa forma diferente de vivir la vida.
+**Contacto:** <a href="https://bio.link/zettafounder" target="_blank">BIO.LINK/ZETTAFOUNDER</a>
 
-Aunque trato de siempre publicar contenido con conciencia, hay redes en donde solo me permito “ser humano” con toda la imperfección y responsabilidad que eso conlleva.
-
-Gracias por ser parte del camino.
-
-Contacto y otras redes: <a href="https://bio.link/zettafounder" target="_blank">BIO.LINK/ZETTAFOUNDER</a>
-
-RSS del blog: <a rel="me" href="https://zettafounder.github.io/feed.xml">https://zettafounder.github.io/feed.xml</a>
+**RSS del blog:** <a rel="me" href="https://zettafounder.github.io/feed.xml">https://zettafounder.github.io/feed.xml</a>
