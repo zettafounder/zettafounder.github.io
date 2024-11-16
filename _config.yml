@@ -1,3 +1,6 @@
 theme: minima
 title: Zetta Founder
 email: jesusperalta@email.com
+collections:
+  temporadas:
+    output: true
