@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: now
 title: Sobre mí
-update: 2024-11-13 04:40:00 -0600
+update: 2024-11-16 04:40:00 -0600
 ---
 
 ![Zetta Founder](https://nyc3.digitaloceanspaces.com/btw-writer-prod/1729065469686%2F1000020265.png)
@@ -17,3 +17,5 @@ Aunque trato de siempre publicar contenido con conciencia, hay redes en donde so
 Gracias por ser parte del camino.
 
 Contacto y otras redes: <a href="https://bio.link/zettafounder" target="_blank">BIO.LINK/ZETTAFOUNDER</a>
+
+RSS del blog: <a rel="me" href="https://zettafounder.github.io/feed.xml">https://zettafounder.github.io/feed.xml</a>
