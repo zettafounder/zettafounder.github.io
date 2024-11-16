@@ -23,4 +23,8 @@ Esta temporada inicio antes de siquiera imaginar escribir un blog, a media tempo
 
 ## Posts de la temporada
 
-- Pronto...
+- Jul 25, 2024 - [¿Cómo tener un día perfecto?](https://zettafounder.github.io/2024/07/25/como-tener-un-buen-dia.html)
+- Jul 17, 2024 - [La importancia de un sistema y buenos hábitos](https://zettafounder.github.io/2024/07/17/la-importancia-de-un-sistema-y-buenos-habitos.html)
+- Jul 8, 2024 - [¿Qué es la vida?](https://zettafounder.github.io/2024/07/08/que-es-la-vida.html)
+- Jun 26, 2024 - [Siempre espero lo mejor](https://zettafounder.github.io/2024/06/26/siempre-espero-lo-mejor.html)
+- Jun 24, 2024 - [Tengo más energía de la que tenía antes](https://zettafounder.github.io/2024/06/24/tengo-mas-energia-que-antes.html)
