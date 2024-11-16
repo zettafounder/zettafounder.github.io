@@ -35,3 +35,5 @@ Panorama actual de mi vida en general.
 ## Zetta Hub Proyects
 - Centro de Bitz
 - Zetta Hard Community
+
+Actualizaciones en tiempo real por <a rel="me" href="https://t.me/zettafounder">Telegram</a>.

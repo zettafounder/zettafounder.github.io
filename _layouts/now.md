@@ -36,6 +36,3 @@ layout: base
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
-
-
-Actualizaciones en tiempo real por <a rel="me" href="https://t.me/zettafounder">Telegram</a>.
