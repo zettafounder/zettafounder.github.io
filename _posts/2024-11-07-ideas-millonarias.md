@@ -6,19 +6,19 @@ tags: blog
 date: 2024-11-07 06:00:00 -0600
 ---
 
-## MIS IDEAS MILLONARIAS
+## Mis ideas millonarias
 
 Hace poco me puse a pensar en lo egoístas que somos con nuestras "ideas millonarias", solo yo, tengo una libreta con al menos unas 40 ideas de negocios o proyectos ya estructurados.
 
 Y como no podía ser de otra forma estaban formando polvo en una parte olvidada de mi atención.
 
-## TUS IDEAS MILLONARIAS
+## Tus ideas millonarias
 
 Lo que me llevo a otro punto, ¿cuántas personas no tienen tantas ideas como yo?
 
 Seguro el vecino o compañera con los que acabo de hablar tienen tantas ideas, pero, ¿por qué no me las cuentan?
 
-## NO EXISTE LA POSIBILIDAD DE ROBAR UNA IDEA
+## No existe la posibilidad de robar una idea
 
 **¿Cómo llegué a esta conclusión?**
 
