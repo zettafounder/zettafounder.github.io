@@ -4,4 +4,6 @@ email: jesusperalta@email.com
 collections:
   temporadas:
     output: true
-    sort_by: date
+    order:
+      - zf0wa24.md
+      - jpz0tj23.md
