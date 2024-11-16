@@ -5,5 +5,6 @@ collections:
   temporadas:
     output: true
     order:
-      - zf0wa24.md
       - jpz0tj23.md
+      - zf0wa24.md
+      
