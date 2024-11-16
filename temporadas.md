@@ -2,7 +2,7 @@
 layout: page
 title: Temporadas
 ---
-{% assign i_temporadas = site.temporadas | sort:"date" %}
+{% assign i_temporadas = site.temporadas | sort:"date" | reverse %}
 
 <ul>
   {% for temporada in i_temporadas %}
