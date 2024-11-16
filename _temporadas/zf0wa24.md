@@ -8,7 +8,7 @@ fin: "now"
 update: 2024-11-16 04:39:00 -0600
 ---
 
-Esta es la temporada 0 como Zetta Founder, es una temporada de prueba para observarme como funciono si hago las cosas diferente. Si todo sale bien como hasta ahora en el 2025 iniciamos la temporada 1.
+Esta es la temporada 0 como Zetta Founder, es una temporada de prueba para observarme como funciono si hago las cosas diferente. Si todo sale bien como hasta ahora, en el 2025 iniciamos la temporada 1.
 
 Por lo mientras estoy en la fase beta, tanto de un "nuevo yo" como de ciertos proyectos. Estos proyectos no los puedo compartir por diversas razones. Una de ellas es que quiero que estos proyectos no estén ligados a mi identidad digital por motivos de privacidad y seguridad.
 
