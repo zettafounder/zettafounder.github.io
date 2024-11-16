@@ -13,6 +13,6 @@ update: 2024-11-16 04:40:00 -0600
 - Un poco de en lo que ando ahora: [Ahora](/now.html)
 - Actualizaciones en tiempo real: <a target="_blank" href="https://t.me/zettafounder">Telegram</a>
 
-**Contacto:** <a href="https://bio.link/zettafounder" target="_blank">BIO.LINK/ZETTAFOUNDER</a>
+**Contacto y otras redes:** <a href="https://bio.link/zettafounder" target="_blank">BIO.LINK/ZETTAFOUNDER</a>
 
 **RSS del blog:** <a rel="me" href="https://zettafounder.github.io/feed.xml">https://zettafounder.github.io/feed.xml</a>
