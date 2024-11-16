@@ -49,5 +49,13 @@ layout: base
 </article>
 
 <hr><br>
+<div class="PageNavigation">
+  {% if page.previous.url %}
+    <p><a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></p>
+  {% endif %}
 
-<a rel="me" href="../temporadas.html">&laquo; Todas las temporadas</a>
+  {% if page.next.url %}
+    <p align="right"><a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></p>
+  {% endif %}
+</div>
+<p align="center"><a rel="me" href="../temporadas.html">&laquo; Todas las temporadas &raquo;</a></p>

@@ -17,7 +17,7 @@ Esta temporada inicio antes de siquiera imaginar escribir un blog, a media tempo
     - Posts diarios en el <a href="https://t.me/+W7s4TQcPd1NlZDlh" target="_blank">canal de Telegram</a>
     - Posts constantes en mi blog de <a href="https://buymeacoffee.com/zettafounder/posts" target="_blank">Buy Me A Coffee</a>
 
-> Actualmente, tanto el canal de Telegram y el blog en Buy Me A Coffe son de acceso privado.
+> Actualmente, tanto el canal de Telegram y el blog en Buy Me A Coffee son de acceso privado.
 
 **Estoy trabajando para hacer parte del contenido público.**
 
