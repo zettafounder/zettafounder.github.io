@@ -4,3 +4,4 @@ email: jesusperalta@email.com
 collections:
   temporadas:
     output: true
+    sort_by: date
