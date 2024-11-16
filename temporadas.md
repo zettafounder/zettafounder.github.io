@@ -2,10 +2,10 @@
 layout: page
 title: Temporadas
 ---
-{% assign temporadas = site.temporadas | sort:"title" reversed%}
+{% assign i_temporadas = site.temporadas | sort:"title" reversed %}
 
 <ul>
-  {% for temporada in temporadas %}
+  {% for temporada in i_temporadas %}
     <li>
       <h4><a href="{{ temporada.url }}">{{ temporada.title }}</a> - {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <time class="dt-published" datetime="{{ temporada.date | date_to_xmlschema }}" itemprop="datePublished">
