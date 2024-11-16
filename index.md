@@ -24,4 +24,4 @@ layout: home
     {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
 {% endfor %}
 
-<a href="/blog.md">Todos los posts</a>
+<a href="/blog.html">Todos los posts</a>
