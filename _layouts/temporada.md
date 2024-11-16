@@ -18,8 +18,8 @@ layout: base
         </time>
       {%- endif -%}
        - {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
+      <time class="dt-published" datetime="{{ page.fin | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.fin | date: date_format }}
       </time>
       {%- if page.modified_date -%}
         ~ 
