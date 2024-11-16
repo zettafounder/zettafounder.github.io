@@ -7,7 +7,6 @@ layout: home
 **En que ando ahora:** [Ahora](/now.html)
 
 ## Ultimos posts
-<a href="https://zettafounder.github.io/">Todos los posts</a>
 
 {% assign i_posts = site.posts %}
 
@@ -24,3 +23,5 @@ layout: home
       </time>
     {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
 {% endfor %}
+
+<a href="/blog.md">Todos los posts</a>
