@@ -1,9 +1,7 @@
 ---
-layout: home
+layout: page
 ---
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-# Inicio
-
 **En que ando ahora:** [Ahora](/now.html)
 
 ## Ultimos posts
