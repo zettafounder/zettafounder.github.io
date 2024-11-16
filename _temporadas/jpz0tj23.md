@@ -19,3 +19,7 @@ Esta temporada inicio antes de siquiera imaginar escribir un blog, a media tempo
 > Actualmente, tanto el canal de Telegram y el blog en Buy Me A Coffe son de acceso privado.
 
 **Estoy trabajando para hacer parte del contenido público.**
+
+## Posts de la temporada
+
+- Pronto...
