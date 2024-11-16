@@ -14,19 +14,16 @@ Por lo mientras estoy en la fase beta, tanto de un "nuevo yo" como de ciertos pr
 
 ## Lanzamientos
 
-- Podcast: [Saqh](https://saqh.lepodca.st/) Temporada 0
+- Podcast: [Saqh Temporada 0](https://saqh.lepodca.st/)
 - Nuevo blog personal en github: [zettafounder](https://zettafounder.github.io/)
 - Nuevo blog de tecnología: [zettabitz](https://zettafounder.github.io/zettabitz/)
 
 ## Posts de esta temporada
 
-- [Ideas millonarias](https://zettafounder.github.io/2024/11/07/ideas-millonarias.html)
-- [I NEED A REASON TO EXIST](https://zettafounder.github.io/2024/10/17/i-need-a-reason-to-exist.html)
-- [Respirar agua](https://zettafounder.github.io/2024/10/01/respirar-agua.html)
-
-## Posts en Medium
-
-- <a href="https://medium.com/@zettafounder/somos-curadores-de-contenido-para-las-grandes-empresas-cdb07fb06afd" target="_blank">Somos curadores de contenido para las grandes empresas.</a>
-- <a href="https://medium.com/@zettafounder/constancia-paciencia-y-disciplina-cf1a75f5d135" target="_blank">Constancia, paciencia y disciplina.</a>
+- Nov 7, 2024 - [Ideas millonarias](https://zettafounder.github.io/2024/11/07/ideas-millonarias.html)
+- Oct 19, 2024 - <a href="https://medium.com/@zettafounder/somos-curadores-de-contenido-para-las-grandes-empresas-cdb07fb06afd" target="_blank">Somos curadores de contenido para las grandes empresas.</a> (Medium)
+- Oct 17, 2024 - [I NEED A REASON TO EXIST](https://zettafounder.github.io/2024/10/17/i-need-a-reason-to-exist.html)
+- Oct 16, 2024 - <a href="https://medium.com/@zettafounder/constancia-paciencia-y-disciplina-cf1a75f5d135" target="_blank">Constancia, paciencia y disciplina.</a> (Medium)
+- Oct 1, 2024 - [Respirar agua](https://zettafounder.github.io/2024/10/01/respirar-agua.html)
 
 Actualizaciones en tiempo real por <a target="_blank" href="https://t.me/zettafounder">Telegram</a>.
