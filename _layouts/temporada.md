@@ -39,4 +39,4 @@ layout: base
 
 <hr><br>
 
-<a rel="me" href="temporadas.html">&laquo; Todas las temporadas</a>
+<a rel="me" href="../temporadas.html">&laquo; Todas las temporadas</a>
