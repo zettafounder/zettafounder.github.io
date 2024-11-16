@@ -13,4 +13,4 @@ update: 2024-11-16 05:18:00 -0600
 
 **Temporada actual:** [ZF.0.WA.24](https://zettafounder.github.io/temporadas/zf0wa24.html) (sí, divido mi vida en temporadas)
 
-Actualizaciones en tiempo real por <a rel="me" href="https://t.me/zettafounder">Telegram</a>.
+Actualizaciones en tiempo real por <a target="_blank" href="https://t.me/zettafounder">Telegram</a>.
