@@ -7,6 +7,7 @@ layout: home
 **En que ando ahora:** [Ahora](/now.html)
 
 ## Ultimos posts
+<a href="https://zettafounder.github.io/">Todos los posts</a>
 
 {% assign i_posts = site.posts %}
 
