@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: now
 title: Ahora
-update: 2024-11-13 04:38:00 -0600
+update: 2024-11-16 04:18:00 -0600
 ---
 
 > Escribo para ordenar el desorden que hay en mi cabeza.
@@ -35,5 +35,3 @@ Panorama actual de mi vida en general.
 ## Zetta Hub Proyects
 - Centro de Bitz
 - Zetta Hard Community
-
-Actualizado: 14 nov, 2024
