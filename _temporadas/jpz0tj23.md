@@ -7,4 +7,8 @@ date: 2023-10-01 10:25:00 -0600
 fin: 2024-06-20 11:35:00 -0600
 ---
 
-Escribiendo...
+Esta temporada inicio antes de siquiera imaginar escribir un blog, a media temporada comencé a escribir en un canal privado en <a href="https://t.me/+W7s4TQcPd1NlZDlh" target="_blank">Telegram</a> y paralelamente en mi blog en <a href="https://buymeacoffee.com/zettafounder/posts" target="_blank">Buy Me A Coffe</a>.
+
+Actualmente, tanto el canal de Telegram y el blog en Buy Me A Coffe son de acceso privado.
+
+**Estoy trabajando para hacer parte del contenido público.**
