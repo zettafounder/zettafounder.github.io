@@ -4,7 +4,7 @@ title: Temporadas
 ---
 
 <ul>
-  {% for temporada in site.temporadas %}
+  {% for temporada in site.temporadas reverse %}
     <li>
       <h4><a href="{{ temporada.url }}">{{ temporada.title }}</a> - {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <time class="dt-published" datetime="{{ temporada.date | date_to_xmlschema }}" itemprop="datePublished">
