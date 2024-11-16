@@ -15,7 +15,8 @@ Por lo mientras estoy en la fase beta, tanto de un "nuevo yo" como de ciertos pr
 ## Lanzamientos
 
 - Podcast: [Saqh](https://saqh.lepodca.st/) Temporada 0
-- Nuevo blog personal: [zettafounder.github.io](https://zettafounder.github.io/)
+- Nuevo blog personal en github: [zettafounder](https://zettafounder.github.io/)
+- Nuevo blog de tecnología: [zettabitz](https://zettafounder.github.io/zettabitz/)
 
 ## Posts de esta temporada
 
