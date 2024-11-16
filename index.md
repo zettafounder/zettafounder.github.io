@@ -2,7 +2,6 @@
 layout: home
 ---
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-<a rel="me" href="https://mstdn.mx/@jpz"></a>
 
 ## Inicio
 
@@ -35,3 +34,5 @@ layout: home
   image="https://nostrcheck.me/media/e140a3ea5b9434a8e853c9264bdc10a5b85c765114b37cbf4850f520c0e40975/783d7f557b8e84d48dcf14e83fecb99c8ff64cc4cd671c55b2fa03264e18ea7f.webp" 
 />
 <script src="https://embed.twentyuno.net/js/app.js"></script>
+
+<a rel="me" href="https://mstdn.mx/@jpz"></a>
