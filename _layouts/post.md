@@ -48,3 +48,4 @@ layout: base
     <p align="right"><a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></p>
   {% endif %}
 </div>
+<p align="center"><a rel="me" href="https://zettafounder.github.io/">&laquo; Todos los posts &raquo;</a></p>
