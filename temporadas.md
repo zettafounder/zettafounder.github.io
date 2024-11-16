@@ -3,6 +3,10 @@ layout: page
 title: Temporadas
 ---
 
-{% for temporada in site.temporadas %}
-  <h2>{{ temporada.title }}</h2>
-{% endfor %}
+<ul>
+  {% for temporada in site.temporadas %}
+    <li>
+      <h4><a href="{{ temporada.url }}">{{ temporada.title }}</a></h4>
+    </li>
+  {% endfor %}
+</ul>
