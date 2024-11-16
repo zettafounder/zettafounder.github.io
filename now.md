@@ -8,7 +8,7 @@ update: 2024-11-16 04:18:00 -0600
 
 Panorama actual de mi vida en general.
 
-- Temporada: ZFT00WA24
+- Temporada: [ZFT00WA24](https://zettafounder.github.io/temporadas/zf0wa24.html) 
 - ZettaFounderT00
 - WinterArcT01E02
 
