@@ -2,9 +2,6 @@
 layout: page
 title: Statuslog
 ---
-
-> Actualización de estado
-
 {% assign i_status = site.statuslog | sort:"date" | reverse %}
 
 {% for status in i_status %}
@@ -19,5 +16,6 @@ title: Statuslog
         {{ mdate | date: date_format }}
       </time>
     {%- endif -%}: </p>
-> "{{ status.status }}"<hr>
+> "{{ status.status }}"
+<br>
 {% endfor %}
