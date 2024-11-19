@@ -15,4 +15,4 @@ update: 2024-11-19 01:44:00 -0600
 
 > Más acerca de una página ahora: <a target="_blank" href="https://nownownow.com/about">nownownow.com</a>.
 
-Actualizaciones en tiempo real por el<a target="_blank" href="https://t.me/zettafounder">Canal de Telegram</a>.
+Actualizaciones en tiempo real por el <a target="_blank" href="https://t.me/zettafounder">Canal de Telegram</a>.
