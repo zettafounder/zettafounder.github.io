@@ -8,7 +8,7 @@ title: Statuslog
 {% assign i_status = site.statuslog | sort:"date" | reverse %}
 
 {% for status in i_status %}
-  <p>Status: "{{ status.status }}"</p><p class="post-meta">{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y %H:%M" -%}
+  <p class="post-meta">{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y %H:%M" -%}
     <time class="dt-published" datetime="{{ status.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ status.date | date: date_format }}
     </time>
@@ -18,5 +18,6 @@ title: Statuslog
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%}</p><hr>
+    {%- endif -%}: </p>
+> "{{ status.status }}"<hr>
 {% endfor %}
