@@ -6,7 +6,7 @@ update: 2024-11-19 01:44:00 -0600
 
 > Un poco de en lo que ando ahora
 
-**Vistaso rapido**
+**Vistazo rápido**
 - Publicando podcast: [Saqh](https://saqh.lepodca.st/) Temporada 0
 - Leyendo: "Cómo ganar amigos e influir sobre las personas"
 - Viendo: Arcane Temporada 2
@@ -17,4 +17,4 @@ update: 2024-11-19 01:44:00 -0600
 
 <hr>
 
-> Más acerca de una página ahora: <a target="_blank" href="https://nownownow.com/about">nownownow.com</a>.
+> Acerca de una Now Page: <a target="_blank" href="https://nownownow.com/about">nownownow.com</a>.
