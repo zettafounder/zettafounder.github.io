@@ -21,7 +21,7 @@ update: 2024-11-19 01:44:00 -0600
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%}</p><p>Status: "{{ status.status }}"</p><hr>
+    {%- endif -%}</p><p>> "{{ status.status }}"</p>
 {% endfor %}
 
 ## Ultimos posts
