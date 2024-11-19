@@ -5,7 +5,7 @@ title: "ZF.0.WA.24 (Actual)"
 tags: temporadas
 date: 2024-10-01 05:00:00 -0600
 fin: "now"
-update: 2024-11-16 04:39:00 -0600
+update: 2024-11-19 02:15:00 -0600
 ---
 
 Esta es la temporada 0 como Zetta Founder, es una temporada de prueba para observarme como funciono si hago las cosas diferente. Si todo sale bien como hasta ahora, en el 2025 iniciamos la temporada 1.
@@ -26,4 +26,4 @@ Por lo mientras estoy en la fase beta, tanto de un "nuevo yo" como de ciertos pr
 - Oct 16, 2024 - <a href="https://medium.com/@zettafounder/constancia-paciencia-y-disciplina-cf1a75f5d135" target="_blank">Constancia, paciencia y disciplina.</a> (Medium)
 - Oct 1, 2024 - [Respirar agua](https://zettafounder.github.io/2024/10/01/respirar-agua.html)
 
-Actualizaciones en tiempo real por <a target="_blank" href="https://t.me/zettafounder">Telegram</a>.
+**Actualizaciones en tiempo real:** <a target="_blank" href="https://t.me/zettafounder">Canal de Telegram</a>.
