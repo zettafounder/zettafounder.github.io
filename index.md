@@ -33,7 +33,7 @@ update: 2024-11-19 01:44:00 -0600
 {% endfor %}
 Todos los estados en: <a href="/statuslog.html">Statuslog</a>
 
-## Ultimos posts
+## Últimos posts
 
 {% assign i_posts = site.posts %}
 

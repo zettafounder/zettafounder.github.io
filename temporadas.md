@@ -5,7 +5,7 @@ title: Temporadas
 {% assign i_temporadas = site.temporadas | sort:"date" | reverse %}
 
 {% for temporada in i_temporadas %}
-  <h2><a href="{{ temporada.url }}">{{ temporada.title }}</a> - {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  <h2><a href="{{ temporada.url }}">{{ temporada.title }}</a></h2><p class="post-meta"> {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <time class="dt-published" datetime="{{ temporada.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ temporada.date | date: date_format }}
         </time>
@@ -26,5 +26,5 @@ title: Temporadas
             {{ mdate | date: date_format }}
         </time>
         {%- endif -%}
-  </h2>
+  </p>
 {% endfor %}
