@@ -8,7 +8,7 @@ title: Statuslog
 {% assign i_status = site.statuslog | sort:"date" | reverse %}
 
 {% for status in i_status %}
-  <h4>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  <p class="post-meta">{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ status.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ status.date | date: date_format }}
     </time>
@@ -18,7 +18,5 @@ title: Statuslog
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%} - <a href=".{{ status.url }}">{{ status.content }}</a></h4> 
+    {%- endif -%}</p><p> {{ status.content }}</p> 
 {% endfor %}
-
-<a rel="me" href="https://zettafounder.github.io/feed.xml">RSS</a>
