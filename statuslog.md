@@ -17,5 +17,5 @@ title: Statuslog
       </time>
     {%- endif -%}: </p>
 > "{{ status.status }}"
-<br>
+<hr>
 {% endfor %}
