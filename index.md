@@ -22,8 +22,8 @@ update: 2024-11-19 01:44:00 -0600
         {{ mdate | date: date_format }}
       </time>
     {%- endif -%}
-    {%- if page.author -%}
-        • {% for author in page.author %}
+    {%- if status.author -%}
+        • {% for author in status.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span class="p-author h-card" itemprop="name">{{ author }}:</span></span>
             {%- if forloop.last == false %}, {% endif -%}
