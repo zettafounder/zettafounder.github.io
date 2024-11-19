@@ -18,5 +18,4 @@ title: Statuslog
     {%- endif -%}: </p>
 > "{{ status.status }}"
 
-<br>
 {% endfor %}
