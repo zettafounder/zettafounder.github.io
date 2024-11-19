@@ -31,6 +31,7 @@ update: 2024-11-19 01:44:00 -0600
       {%- endif -%}</p>
 > "{{ status.status }}"
 {% endfor %}
+<a href="/statuslog.html">Estatuslog</a>
 
 ## Ultimos posts
 
