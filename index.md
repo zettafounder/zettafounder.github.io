@@ -6,7 +6,7 @@ update: 2024-11-19 01:44:00 -0600
 
 > **En que ando [ahora](/now.html)**
 
-**Ultimo estado:**
+## Ultimo estado:
 
 {% assign i_status = site.statuslog | sort:"date" | reverse %}
 
