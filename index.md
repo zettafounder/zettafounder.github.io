@@ -6,7 +6,7 @@ update: 2024-11-19 01:44:00 -0600
 
 > **En que ando [ahora](/now.html)**
 
-## Ultimo estado
+**Ultimo estado:**
 
 {% assign i_status = site.statuslog | sort:"date" | reverse %}
 
@@ -21,7 +21,14 @@ update: 2024-11-19 01:44:00 -0600
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%}</p>
+    {%- endif -%}
+    {%- if page.author -%}
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}:</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}</p>
 > "{{ status.status }}"
 {% endfor %}
 
