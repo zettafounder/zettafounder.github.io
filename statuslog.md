@@ -18,5 +18,5 @@ title: Statuslog
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%}</p><p> {{ status.content }}</p><hr>
+    {%- endif -%}</p><p>Status: "{{ status.content }}"</p><hr>
 {% endfor %}
