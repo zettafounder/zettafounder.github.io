@@ -1,7 +1,7 @@
 ---
 layout: now
 title: Ahora
-update: 2024-11-16 05:18:00 -0600
+update: 2024-11-1 05:18:00 -0600
 ---
 
 > Un poco de en lo que ando ahora :D
@@ -13,6 +13,6 @@ update: 2024-11-16 05:18:00 -0600
 
 **Temporada actual:** [ZF.0.WA.24](https://zettafounder.github.io/temporadas/zf0wa24.html) (sí, divido mi vida en temporadas)
 
-> Más acerca de una página now (ahora): <a target="_blank" href="https://nownownow.com/about">nownownow.com</a>.
+> Más acerca de una página Ahora: <a target="_blank" href="https://nownownow.com/about">nownownow.com</a>.
 
-Actualizaciones en tiempo real por <a target="_blank" href="https://t.me/zettafounder">Telegram</a>.
+Actualizaciones en tiempo real por <a target="_blank" href="https://t.me/zettafounder">Canal de Telegram</a>.
