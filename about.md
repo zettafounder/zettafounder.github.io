@@ -15,4 +15,4 @@ update: 2024-11-16 04:40:00 -0600
 
 **Contacto y otras redes:** <a href="https://bio.link/zettafounder" target="_blank">BIO.LINK/ZETTAFOUNDER</a>
 
-**RSS del blog:** <a rel="me" href="https://zettafounder.github.io/feed.xml">https://zettafounder.github.io/feed.xml</a>
+**RSS del blog:** <a target="_blank" href="https://zettafounder.github.io/feed.xml">https://zettafounder.github.io/feed.xml</a>
