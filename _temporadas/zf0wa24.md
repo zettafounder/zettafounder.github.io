@@ -25,5 +25,3 @@ Por lo mientras estoy en la fase beta, tanto de un "nuevo yo" como de ciertos pr
 - Oct 17, 2024 - [I NEED A REASON TO EXIST](https://zettafounder.github.io/2024/10/17/i-need-a-reason-to-exist.html)
 - Oct 16, 2024 - <a href="https://medium.com/@zettafounder/constancia-paciencia-y-disciplina-cf1a75f5d135" target="_blank">Constancia, paciencia y disciplina.</a> (Medium)
 - Oct 1, 2024 - [Respirar agua](https://zettafounder.github.io/2024/10/01/respirar-agua.html)
-
-**Actualizaciones en tiempo real:** <a target="_blank" href="https://t.me/zettafounder">Canal de Telegram</a>.
