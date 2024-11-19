@@ -1,7 +1,7 @@
 ---
 layout: now
 title: Ahora
-update: 2024-11-1 05:18:00 -0600
+update: 2024-11-19 01:44:00 -0600
 ---
 
 > Un poco de en lo que ando ahora :D

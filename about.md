@@ -1,7 +1,7 @@
 ---
 layout: now
 title: Sobre mí
-update: 2024-11-1 04:40:00 -0600
+update: 2024-11-19 01:44:00 -0600
 ---
 
 > Se lo suficientemente bueno.
