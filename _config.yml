@@ -1,6 +1,7 @@
 theme: minima
 title: Zetta Founder
 email: jesusperalta@email.com
+timezone: America/Mexico_City
 collections:
   temporadas:
     output: true
