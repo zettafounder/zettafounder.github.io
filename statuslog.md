@@ -19,5 +19,4 @@ title: Statuslog
 > "{{ status.status }}"
 
 <br>
-<br>
 {% endfor %}
