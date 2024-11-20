@@ -37,7 +37,7 @@ Todos los estados en: <a href="/statuslog.html">Statuslog</a>
 
 {% assign i_posts = site.posts %}
 
-{% for post in i_posts | limit: 3 %}
+{% for post in i_posts | limit: 5 %}
   <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ post.date | date: date_format }}
@@ -56,5 +56,7 @@ Todos los estados en: <a href="/statuslog.html">Statuslog</a>
 ## Último episodio Saqh
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=21316&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+Todos los episodios en: <a href="https://saqh.lepodca.st">Saqh Podcast</a>
 
 <a rel="me" href="https://mstdn.mx/@jpz"></a>
