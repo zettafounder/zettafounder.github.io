@@ -37,7 +37,7 @@ Todos los estados en: <a href="/statuslog.html">Statuslog</a>
 
 {% assign i_posts = site.posts %}
 
-{% for post in i_posts | limit: 10 %}
+{% for post in i_posts | limit: 3 %}
   <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ post.date | date: date_format }}
@@ -52,5 +52,9 @@ Todos los estados en: <a href="/statuslog.html">Statuslog</a>
 {% endfor %}
 
 <a href="/blog.html">Todos los posts</a> • <a target="_blank" href="https://zettafounder.github.io/feed.xml">RSS</a>
+
+## Último episodio Saqh
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=21316&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 <a rel="me" href="https://mstdn.mx/@jpz"></a>
