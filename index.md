@@ -53,10 +53,4 @@ Todos los estados en: [Statuslog](/statuslog.html)
 
 [Todos los posts](/blog.html) • <a target="_blank" href="https://zettafounder.github.io/feed.xml">RSS</a>
 
-## Último episodio Saqh
-
-<iframe src="https://www.vodio.fr/frameplay.php?idref=21466&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
-
-Todos los episodios en: <a target="_blank" href="https://saqh.lepodca.st">Saqh Podcast</a>
-
 <a rel="me" href="https://mstdn.mx/@jpz"></a>
