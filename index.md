@@ -31,7 +31,7 @@ update: 2024-11-19 01:44:00 -0600
       {%- endif -%}</p>
 > "{{ status.status }}"
 {% endfor %}
-Todos los estados en: <a href="/statuslog.html">Statuslog</a>
+Todos los estados en: [Statuslog](/statuslog.html)
 
 ## Últimos posts
 
@@ -51,12 +51,12 @@ Todos los estados en: <a href="/statuslog.html">Statuslog</a>
     {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
 {% endfor %}
 
-<a href="/blog.html">Todos los posts</a> • <a target="_blank" href="https://zettafounder.github.io/feed.xml">RSS</a>
+[Todos los posts](/blog.html) • <a target="_blank" href="https://zettafounder.github.io/feed.xml">RSS</a>
 
 ## Último episodio Saqh
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=21466&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
-Todos los episodios en: <a href="https://saqh.lepodca.st">Saqh Podcast</a>
+Todos los episodios en: <a target="_blank" href="https://saqh.lepodca.st">Saqh Podcast</a>
 
 <a rel="me" href="https://mstdn.mx/@jpz"></a>
