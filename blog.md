@@ -17,4 +17,4 @@ title: Blog
     {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></h4> 
 {% endfor %}
 
-<a rel="me" href="https://zettafounder.github.io/feed.xml">RSS</a>
+<a target="_blank" href="https://zettafounder.github.io/feed.xml">RSS</a>

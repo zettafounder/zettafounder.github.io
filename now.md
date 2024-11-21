@@ -7,7 +7,7 @@ update: 2024-11-19 01:44:00 -0600
 > Un poco de en lo que ando ahora
 
 **Vistazo rápido**
-- Publicando podcast: [Saqh](https://saqh.lepodca.st/) Temporada 0
+- Publicando podcast: <a target="_blank" href="https://saqh.lepodca.st">Saqh</a> Temporada 0
 - Leyendo: "Cómo ganar amigos e influir sobre las personas"
 - Viendo: Arcane Temporada 2
 
