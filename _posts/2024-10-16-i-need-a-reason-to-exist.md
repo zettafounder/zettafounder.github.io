@@ -5,14 +5,7 @@ title: "I NEED A REASON TO EXIST"
 tags: blog
 date: 2024-10-16 20:00:00 -0600
 ---
-![1](./assets/images/i-need-a-reason-to-exist.jpg)
-![2](../assets/images/i-need-a-reason-to-exist.jpg)
-![3](./../assets/images/i-need-a-reason-to-exist.jpg)
-![4](../../assets/images/i-need-a-reason-to-exist.jpg)
-![5](./../../assets/images/i-need-a-reason-to-exist.jpg)
-![6](../../../assets/images/i-need-a-reason-to-exist.jpg)
-![7](./../../../assets/images/i-need-a-reason-to-exist.jpg)
-![8](../../../../assets/images/i-need-a-reason-to-exist.jpg)
+![i-need-a-reason-to-exist.jpg](../../../assets/images/i-need-a-reason-to-exist.jpg)
 
 Esta frase me hizo mucho ruido cuando tenía 19 años. Llevaba casi dos años "sabáticos" y seguía sin encontrar un sentido real en la vida.
 
