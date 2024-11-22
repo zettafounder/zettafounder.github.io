@@ -5,6 +5,7 @@ title: "I NEED A REASON TO EXIST"
 tags: blog
 date: 2024-10-16 20:00:00 -0600
 ---
+![](../_assets/images/i-need-a-reason-to-exist.jpg)
 
 Esta frase me hizo mucho ruido cuando tenía 19 años. Llevaba casi dos años "sabáticos" y seguía sin encontrar un sentido real en la vida.
 
