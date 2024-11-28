@@ -58,5 +58,5 @@ layout: base
     <p align="right"><a class="next" href="{{page.next.url}}"> Siguiente temporada: {{page.next.title}} &raquo;</a></p>
   {% endif %}
 </div>
-<p align="center"><a rel="me" href="https://zettafounder.github.io/temporadas/zf0wa24.html">&laquo; Temporada actual &raquo;</a></p>
+<p align="center"><a rel="me" href="https://zettafounder.github.io/temporadas/zf124.html">&laquo; Temporada actual &raquo;</a></p>
 <p align="center"><a rel="me" href="../temporadas.html">&laquo; Todas las temporadas &raquo;</a></p>
