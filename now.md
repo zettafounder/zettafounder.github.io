@@ -1,17 +1,12 @@
 ---
 layout: now
 title: Ahora
-update: 2024-11-26 01:44:00 -0600
+update: 2024-11-27 20:06:00 -0600
 ---
 
-> Un poco de en lo que ando ahora
+> Desconectado hasta el Q1 de 2025.
 
-**Vistazo rápido**
-- Leyendo: "Cómo ganar amigos e influir sobre las personas"
-- Haciendo preparativos de fin de año
-- Planeando siguiente año (2025)
-
-**El lo que me enfoque estos ultimos meses:** [ZF.0.WA.24](https://zettafounder.github.io/temporadas/zf0wa24.html)
+**El lo que me enfoque estos ultimos meses:** [ZF.0.WA.24](https://zettafounder.github.io/temporadas/zf0wa24.html).
 
 **Actualizaciones en tiempo real:** <a target="_blank" href="https://t.me/zettafounder">Canal de Telegram</a>.
 

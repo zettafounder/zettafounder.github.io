@@ -1,11 +1,11 @@
 ---
-layout: temporada-now
+layout: temporada
 author: Zetta Founder
-title: "ZF.0.WA.24 (Actual)"
+title: "ZF.0.WA.24"
 tags: temporadas
 date: 2024-10-01 05:00:00 -0600
-fin: "now"
-update: 2024-11-19 02:15:00 -0600
+fin: 2024-11-30 05:00:00 -0600
+update: 2024-11-27 20:11:00 -0600
 ---
 
 Esta es la temporada 0 como Zetta Founder, es una temporada de prueba para observarme como funciono si hago las cosas diferente. Si todo sale bien como hasta ahora, en el 2025 iniciamos la temporada 1.
@@ -25,3 +25,9 @@ Por lo mientras estoy en la fase beta, tanto de un "nuevo yo" como de ciertos pr
 - Oct 16, 2024 - [I NEED A REASON TO EXIST](https://zettafounder.github.io/2024/10/16/i-need-a-reason-to-exist.html)
 - Oct 16, 2024 - [Constancia, paciencia y disciplina](https://zettafounder.github.io/2024/10/16/constancia-paciencia-disciplina.html)
 - Oct 1, 2024 - [Respirar agua](https://zettafounder.github.io/2024/10/01/respirar-agua.html)
+
+## Fin de temporada
+
+Hoy (27.11.2024) doy por concluida la temporada ZF.0.WA.24, fue interesante, aprendi mucho y creci mucho tambien. Nos vemos la proxima temporada en 2025, con una nueva temporada del podcast y con nuevas entradas en el blog. Tambien habran un par de cambios interesantes.
+
+Hasta el proximo año, feliz navidad y año nuevo a todos.
