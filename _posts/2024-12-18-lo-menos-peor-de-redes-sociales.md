@@ -3,7 +3,7 @@ layout: post
 author: Zetta Founder
 title: "Elegir entre "lo menos peor" de las redes sociales"
 tags: blog
-date: 2024-12-18 23:11:00 -0600
+date: 2024-12-18 11:11:00 -0600
 ---
 En los últimos meses me he encontrado muy alejado de redes sociales, sobre todo en el último mes, que no he tenido acceso ni siquiera a un teléfono con WhatsApp.
 
