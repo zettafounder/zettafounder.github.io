@@ -1,7 +1,5 @@
 - name: Inicio
   link: /index.md
-- name: Ahora
-  link: /now.md
 - name: Sobre mí
   link: /about.md
 - name: Temporadas
