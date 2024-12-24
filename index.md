@@ -3,11 +3,6 @@ layout: home
 update: 2024-11-19 01:44:00 -0600
 ---
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-
-> **En que ando [ahora](/now.html)**
-
-## Último estado
-
 {% assign i_status = site.statuslog | sort:"date" | reverse %}
 
 {% for status in i_status | limit: 1 %}
@@ -31,9 +26,8 @@ update: 2024-11-19 01:44:00 -0600
       {%- endif -%}</p>
 > "{{ status.status }}"
 {% endfor %}
-Todos los estados en: [Statuslog](/statuslog.html)
 
-## Últimos posts
+## Últimos posts del blog
 
 {% assign i_posts = site.posts %}
 
