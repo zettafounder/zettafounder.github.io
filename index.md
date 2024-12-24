@@ -27,6 +27,8 @@ update: 2024-11-19 01:44:00 -0600
 > "{{ status.status }}"
 {% endfor %}
 
+-----
+
 ## Últimos posts del blog
 
 {% assign i_posts = site.posts %}
