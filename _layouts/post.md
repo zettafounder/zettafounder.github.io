@@ -39,16 +39,6 @@ layout: base
 
 <hr><br>
 
-<div class="PageNavigation">
-  {% if page.previous.url %}
-    <p><a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></p>
-  {% endif %}
-
-  {% if page.next.url %}
-    <p align="right"><a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></p>
-  {% endif %}
-</div>
-
  <table>
   <tr>
     <td>{% if page.previous.url %}
