@@ -49,12 +49,11 @@ layout: base
   {% endif %}
 </div>
 
-|o|o|
-|---|---|
-|||
-
-|||
-|---|---|
-|x|x|
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+  </tr>
+</table> 
 
 <p align="center"><a rel="me" href="/blog.html">&laquo; Todos los posts &raquo;</a></p>
