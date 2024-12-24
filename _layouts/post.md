@@ -48,4 +48,13 @@ layout: base
     <p align="right"><a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></p>
   {% endif %}
 </div>
+
+|o|o|
+|---|---|
+|||
+
+|||
+|---|---|
+|x|x|
+
 <p align="center"><a rel="me" href="/blog.html">&laquo; Todos los posts &raquo;</a></p>
