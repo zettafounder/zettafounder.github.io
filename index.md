@@ -27,6 +27,8 @@ update: 2024-11-19 01:44:00 -0600
 > "{{ status.status }}"
 {% endfor %}
 
+> Temporada actual: [Z.F. Temporada 0](https://zettafounder.github.io/temporadas/zf0wa24.html)
+
 -----
 
 <br>
@@ -50,5 +52,3 @@ update: 2024-11-19 01:44:00 -0600
 {% endfor %}
 
 [Todos los posts](/blog.html) • <a target="_blank" href="https://zettafounder.github.io/feed.xml">RSS</a>
-
-<a rel="me" href="https://mstdn.mx/@jpz"></a>
