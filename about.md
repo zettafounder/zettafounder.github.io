@@ -1,11 +1,15 @@
 ---
 layout: now
 title: Sobre mí
-update: 2024-11-19 01:44:00 -0600
+update: 2024-12-26 04:17:00 -0600
 ---
+
+![](https://nyc3.digitaloceanspaces.com/btw-writer-prod/1721720434897%2F1000016996.png)
+
+**Zetta Founder**
 
 > Se lo suficientemente bueno.
 
-**Contacto y otras redes:** <a href="https://bio.link/zettafounder" target="_blank">BIO.LINK/ZETTAFOUNDER</a>
+**Enlaces:** <a href="https://bio.link/zettafounder" target="_blank">bio.link/zettafounder</a>
 
-**RSS del blog:** <a target="_blank" href="https://zettafounder.github.io/feed.xml">https://zettafounder.github.io/feed.xml</a>
+**RSS del blog:** https://zettafounder.github.io/feed.xml
