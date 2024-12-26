@@ -59,15 +59,6 @@ layout: base
 </article>
 
 <hr><br>
-<div class="PageNavigation">
-  {% if page.previous.url %}
-    <p><a class="prev" href="{{page.previous.url}}">&laquo; Temporada anterior: {{page.previous.title}}</a></p>
-  {% endif %}
-
-  {% if page.next.url %}
-    <p align="right"><a class="next" href="{{page.next.url}}"> Siguiente temporada: {{page.next.title}} &raquo;</a></p>
-  {% endif %}
-</div>
 
  <table>
   <tr>
