@@ -1,7 +1,7 @@
 ---
 layout: temporada
 author: Zetta Founder
-title: "ZF.0.WA.24"
+title: "Temporada ZF 0"
 tags: temporadas
 date: 2024-10-01 05:00:00 -0600
 fin: 2024-12-31 05:00:00 -0600
