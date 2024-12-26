@@ -12,4 +12,4 @@ update: 2024-12-26 04:17:00 -0600
 
 **Enlaces:** <a href="https://bio.link/zettafounder" target="_blank">bio.link/zettafounder</a>
 
-**RSS del blog:** https://zettafounder.github.io/feed.xml
+**RSS:** https://zettafounder.github.io/feed.xml
