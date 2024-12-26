@@ -22,6 +22,7 @@ Por lo mientras estoy en la fase beta, tanto de un "nuevo yo" como de ciertos pr
 
 - Dic 26, 2024 - [Winter Arc 2024](https://zettafounder.github.io/2024/12/26/winterarc2024.html)
 - Dic 26, 2024 - [PWD: AMORir](https://zettafounder.github.io/2024/12/26/amorir.html)
+- Dic 18, 2024 - [Elegir entre lo menos peor de las redes sociales](https://zettafounder.github.io/2024/12/18/lo-menos-peor-de-redes-sociales.html)
 - Nov 7, 2024 - [Ideas millonarias](https://zettafounder.github.io/2024/11/07/ideas-millonarias.html)
 - Oct 19, 2024 - [Somos curadores de contenido para las grandes empresas](https://zettafounder.github.io/2024/10/19/somos-curadores-de-contenido-para-las-grandes-empresas.html)
 - Oct 16, 2024 - [I NEED A REASON TO EXIST](https://zettafounder.github.io/2024/10/16/i-need-a-reason-to-exist.html)
