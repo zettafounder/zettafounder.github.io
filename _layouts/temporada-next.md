@@ -41,10 +41,10 @@ layout: base
  <table>
   <tr>
     <td>{% if page.previous.url %}
-    <p><a class="prev" href="{{page.previous.url}}">&laquo; Temporada anterior: {{page.previous.title}}</a></p>
+    <p><a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></p>
   {% endif %}</td>
     <td>{% if page.next.url %}
-    <p align="right"><a class="next" href="{{page.next.url}}"> Siguiente temporada: {{page.next.title}} &raquo;</a></p>{% endif %}</td>
+    <p align="right"><a class="next" href="{{page.next.url}}"> {{page.next.title}} &raquo;</a></p>{% endif %}</td>
   </tr>
 </table> 
 
