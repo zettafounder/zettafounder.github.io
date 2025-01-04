@@ -31,7 +31,7 @@ update: 2024-11-19 01:44:00 -0600
 Temporada actual:
 </p>
 
-> [Temporada ZF 0](https://zettafounder.github.io/temporadas/zf0wa24.html)
+> [Temporada ZF 1](https://zettafounder.github.io/temporadas/zf124.html)
 
 -----
 
