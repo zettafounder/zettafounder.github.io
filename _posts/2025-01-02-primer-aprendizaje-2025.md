@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Zetta Founder
-title: "Primer aprendizaje 2025"
+title: "Nada de lo que crees importa"
 tags: blog
 date: 2025-01-02 18:30:00 -0600
 ---
