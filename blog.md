@@ -18,3 +18,6 @@ title: Blog
 {% endfor %}
 
 <a target="_blank" href="https://zettafounder.github.io/feed.xml">RSS</a>
+
+<hr>
+<br>
