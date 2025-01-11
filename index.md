@@ -26,8 +26,15 @@ update: 2024-11-19 01:44:00 -0600
 {% endfor %}
 
 -----
-
 <br>
+
+## Contacto
+
+Telegram: <a href="https://t.me/zettafounder" target="_blank">zettafounder</a>
+Signal: <a href="https://t.me/zettafounder" target="_blank">zettafounder.21</a>
+Keybase: <a href="https://keybase.io/zettafounder" target="_blank">zettafounder</a>
+SimpleX: <a href="https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FU3BAGZl1VzC3nIIpMH-DrveSKaUx00PV%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAKXdWImoDNMmiLVBMzcfhSfI8m429pqcaqFNOmPeXUmc%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion" target="_blank">Zetta Founder</a>
+Email: <a href="mailto:zettafounder@proton.me" target="_blank">zettafounder@proton.me</a>
 
 ## Últimos posts del blog
 
@@ -49,3 +56,5 @@ update: 2024-11-19 01:44:00 -0600
 
 ---
 <br>
+
+## Proyectos
