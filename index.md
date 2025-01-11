@@ -32,7 +32,7 @@ update: 2024-11-19 01:44:00 -0600
 
 Telegram: <a href="https://t.me/zettafounder" target="_blank">zettafounder</a>
 
-Signal: <a href="https://t.me/zettafounder" target="_blank">zettafounder.21</a>
+Signal: <a href="https://signal.me/#eu/p92Po5E7dJhraz3L0gMjy-5yYkGjdsaQ8gVCEba5lodygMXUgj1KKL4j86TgzKKV" target="_blank">zettafounder.21</a>
 
 Keybase: <a href="https://keybase.io/zettafounder" target="_blank">zettafounder</a>
 
