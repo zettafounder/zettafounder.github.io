@@ -33,8 +33,13 @@ update: 2024-11-19 01:44:00 -0600
 -----
 <br>
 
-## Últimos posts del blog
+<p class="post-meta">Temporada actual:</p>
+> **[Temporada ZF 1](https://zettafounder.github.io/temporadas/zf124.html)**
 
+-----
+<br>
+
+<p class="post-meta">Últimos posts del blog:</p>
 {% assign i_posts = site.posts %}
 
 {% for post in i_posts | limit: 3 %}
@@ -53,3 +58,4 @@ update: 2024-11-19 01:44:00 -0600
 
 ---
 <br>
+
