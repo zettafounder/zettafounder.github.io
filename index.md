@@ -47,4 +47,5 @@ update: 2024-11-19 01:44:00 -0600
     {%- endif -%} - <a href=".{{ post.url }}"><strong>{{ post.title }}</strong></a></p> 
 {% endfor %}
 
-[Todos los posts](/blog.html) • <a target="_blank" href="https://zettafounder.github.io/feed.xml">RSS</a>
+---
+<br>
