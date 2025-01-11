@@ -26,5 +26,8 @@ title: Temporadas
             {{ mdate | date: date_format }}
         </time>
         {%- endif -%}:
-  </p><a href="{{ temporada.url }}"><strong>{{ temporada.title }}</strong></a>
+  </p>
+> <a href="{{ temporada.url }}"><strong>{{ temporada.title }}</strong></a>
+<hr>
+<br>
 {% endfor %}
