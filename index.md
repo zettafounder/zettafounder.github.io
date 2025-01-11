@@ -2,6 +2,18 @@
 layout: home
 update: 2024-11-19 01:44:00 -0600
 ---
+<p class="post-meta">Contacto:</p>
+> <a href="https://bio.link/zettafounder" target="_blank"><strong>Bio Link</strong></a>
+
+-----
+<br>
+
+<p class="post-meta">Temporada actual:</p>
+> **[Temporada ZF 1](https://zettafounder.github.io/temporadas/zf124.html)**
+
+-----
+<br>
+
 {% assign i_status = site.statuslog | sort:"date" | reverse %}
 {% for status in i_status | limit: 1 %}
   <p class="post-meta">{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -24,17 +36,6 @@ update: 2024-11-19 01:44:00 -0600
       {%- endif -%}</p>
 > <strong>"{{ status.status }}"</strong>
 {% endfor %}
-
------
-<br>
-<p class="post-meta">Contacto:</p>
-> <a href="https://bio.link/zettafounder" target="_blank"><strong>Bio Link</strong></a>
-
------
-<br>
-
-<p class="post-meta">Temporada actual:</p>
-> **[Temporada ZF 1](https://zettafounder.github.io/temporadas/zf124.html)**
 
 -----
 <br>
