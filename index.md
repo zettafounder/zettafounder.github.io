@@ -2,12 +2,10 @@
 layout: home
 update: 2024-11-19 01:44:00 -0600
 ---
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 {% assign i_status = site.statuslog | sort:"date" | reverse %}
-
 {% for status in i_status | limit: 1 %}
   <p class="post-meta">{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <time class="dt-published" datetime="{{ status.date | date_to_xmlschema }}" itemprop="datePublished">
+    Último estado, <time class="dt-published" datetime="{{ status.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ status.date | date: date_format }}
     </time>
     {%- if status.modified_date -%}
@@ -16,7 +14,7 @@ update: 2024-11-19 01:44:00 -0600
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%}
+    {%- endif -%}:
     {%- if status.author -%}
         • {% for author in status.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
