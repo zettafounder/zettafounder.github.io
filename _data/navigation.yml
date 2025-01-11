@@ -1,7 +1,3 @@
-- name: Inicio
-  link: /index.md
-- name: Sobre mí
-  link: /about.md
 - name: Temporadas
   link: /temporadas.md
 - name: Blog
