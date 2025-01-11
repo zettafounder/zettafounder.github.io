@@ -27,7 +27,7 @@ update: 2024-11-19 01:44:00 -0600
 
 -----
 <br>
-<p class="post-meta">Mis enlaces:</p>
+<p class="post-meta">Contacto:</p>
 > <a href="https://bio.link/zettafounder" target="_blank"><strong>Bio Link</strong></a>
 
 -----
