@@ -16,7 +16,7 @@ title: Statuslog
         {{ mdate | date: date_format }}
       </time>
     {%- endif -%}: </p>
-> "{{ status.status }}"
+> <strong>"{{ status.status }}</strong>"
 <hr>
 <br>
 {% endfor %}

@@ -22,7 +22,7 @@ update: 2024-11-19 01:44:00 -0600
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
-> "{{ status.status }}"
+> <strong>"{{ status.status }}"</strong>
 {% endfor %}
 
 -----
