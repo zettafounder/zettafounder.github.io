@@ -25,12 +25,6 @@ update: 2024-11-19 01:44:00 -0600
 > "{{ status.status }}"
 {% endfor %}
 
-<p class="post-meta">
-Temporada actual:
-</p>
-
-> [Temporada ZF 1](https://zettafounder.github.io/temporadas/zf124.html)
-
 -----
 
 <br>
@@ -39,7 +33,7 @@ Temporada actual:
 
 {% assign i_posts = site.posts %}
 
-{% for post in i_posts | limit: 5 %}
+{% for post in i_posts | limit: 3 %}
   <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ post.date | date: date_format }}
@@ -50,7 +44,7 @@ Temporada actual:
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
+    {%- endif -%} - <a href=".{{ post.url }}"><strong>{{ post.title }}</strong></a></p> 
 {% endfor %}
 
 [Todos los posts](/blog.html) • <a target="_blank" href="https://zettafounder.github.io/feed.xml">RSS</a>
