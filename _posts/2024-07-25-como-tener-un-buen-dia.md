@@ -2,7 +2,8 @@
 layout: post
 author: Zetta Founder
 title: "¿Cómo tener un día perfecto?"
-tags: blog
+category: legado
+tags: momentos
 date: 2024-07-25 16:00:00 -0600
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 author: Zetta Founder
 title: "Somos curadores de contenido para las grandes empresas"
-tags: blog
+category: personal
+tags: pensamientos
 date: 2024-10-19 05:00:00 -0600
 ---
 

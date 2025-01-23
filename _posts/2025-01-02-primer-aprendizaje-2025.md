@@ -2,7 +2,8 @@
 layout: post
 author: Zetta Founder
 title: "Nada de lo que crees importa"
-tags: blog
+category: personal
+tags: pensamientos
 date: 2025-01-02 18:30:00 -0600
 ---
 

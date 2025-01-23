@@ -2,10 +2,10 @@
 layout: post
 author: Zetta Founder
 title: "Siempre espero lo mejor"
-tags: blog
+category: mente
+tags: habitos, mentalidad, comportamiento
 date: 2024-06-26 05:00:00 -0600
 ---
-
 Estaba pensando, ¿por qué siempre esperamos lo peor y no lo mejor?
 
 Creo que tiene que ver con crearnos expectativas para así evitar desilusiones.

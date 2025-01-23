@@ -2,7 +2,8 @@
 layout: post
 author: Zetta Founder
 title: "Constancia, paciencia y disciplina"
-tags: blog
+category: mente
+tags: mentalidad
 date: 2024-10-16 05:00:00 -0600
 ---
 

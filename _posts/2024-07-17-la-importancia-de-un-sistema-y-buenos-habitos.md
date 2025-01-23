@@ -2,7 +2,8 @@
 layout: post
 author: Zetta Founder
 title: "La importancia de un sistema y buenos hábitos"
-tags: blog
+categories: productividad
+tags: habitos, mentalidad, sistemas, rutina
 date: 2024-07-17 05:00:00 -0600
 ---
 

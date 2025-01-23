@@ -2,7 +2,8 @@
 layout: post
 author: Zetta Founder
 title: "Ideas millonarias"
-tags: blog
+category: personal
+tags: pensamientos
 date: 2024-11-07 06:00:00 -0600
 ---
 
