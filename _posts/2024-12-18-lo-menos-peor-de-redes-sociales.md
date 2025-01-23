@@ -3,7 +3,7 @@ layout: post
 author: Zetta Founder
 title: "Elegir entre lo menos peor de las redes sociales"
 category: personal
-tags: pensamientos
+tags: pensamientos, zf0
 season: zf0
 date: 2024-12-18 23:11:00 -0600
 ---

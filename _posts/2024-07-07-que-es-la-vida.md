@@ -3,7 +3,7 @@ layout: post
 author: Zetta Founder
 title: "¿Qué es la vida?"
 category: personal
-tags: pensamientos
+tags: pensamientos, jpz0
 season: jpz0
 date: 2024-07-07 23:00:00 -0600
 ---

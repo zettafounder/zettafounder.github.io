@@ -20,6 +20,20 @@ Por lo mientras estoy en la fase beta, tanto de un "nuevo yo" como de ciertos pr
 
 ## Posts de esta temporada
 
+{% for post in site.tags["zf0"] %}
+  <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+      {{ post.date | date: date_format }}
+    </time>
+    {%- if post.modified_date -%}
+      ~ 
+      {%- assign mdate = post.modified_date | date_to_xmlschema -%}
+      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+        {{ mdate | date: date_format }}
+      </time>
+    {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
+{% endfor %}
+
 - Dic 26, 2024 - [Winter Arc 2024](https://zettafounder.github.io/2024/12/26/winterarc2024.html)
 - Dic 26, 2024 - [PWD: AMORir](https://zettafounder.github.io/2024/12/26/amorir.html)
 - Dic 18, 2024 - [Elegir entre lo menos peor de las redes sociales](https://zettafounder.github.io/2024/12/18/lo-menos-peor-de-redes-sociales.html)

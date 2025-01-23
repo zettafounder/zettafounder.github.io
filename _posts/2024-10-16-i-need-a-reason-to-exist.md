@@ -3,7 +3,7 @@ layout: post
 author: Zetta Founder
 title: "I NEED A REASON TO EXIST"
 category: personal
-tags: blog
+tags: blog, zf0
 season: zf0
 date: 2024-10-16 20:00:00 -0600
 ---

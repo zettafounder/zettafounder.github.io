@@ -3,7 +3,7 @@ layout: post
 author: Zetta Founder
 title: "Siempre espero lo mejor"
 category: mente
-tags: habitos, mentalidad, comportamiento
+tags: habitos, mentalidad, comportamiento, jpz0
 season: jpz0
 date: 2024-06-26 05:00:00 -0600
 ---

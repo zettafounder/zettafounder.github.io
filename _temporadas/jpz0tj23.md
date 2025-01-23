@@ -26,7 +26,7 @@ Esta temporada inicio antes de siquiera imaginar escribir un blog, a media tempo
 {% for post in site.tags["jpz0"] %}
   <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-      - {{ post.date | date: date_format }}
+      {{ post.date | date: date_format }}
     </time>
     {%- if post.modified_date -%}
       ~ 

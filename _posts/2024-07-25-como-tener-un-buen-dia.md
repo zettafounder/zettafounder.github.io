@@ -3,7 +3,7 @@ layout: post
 author: Zetta Founder
 title: "¿Cómo tener un día perfecto?"
 category: legado
-tags: momentos
+tags: momentos, jpz0
 season: jpz0
 date: 2024-07-25 16:00:00 -0600
 ---
