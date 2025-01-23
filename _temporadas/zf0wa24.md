@@ -20,8 +20,8 @@ Por lo mientras estoy en la fase beta, tanto de un "nuevo yo" como de ciertos pr
 
 ## Posts de esta temporada
 
-{% for post in site.tags["zf0"] %}
-  <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+<ul>{% for post in site.tags["zf0"] %}
+  <li>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ post.date | date: date_format }}
     </time>
@@ -31,17 +31,8 @@ Por lo mientras estoy en la fase beta, tanto de un "nuevo yo" como de ciertos pr
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
-{% endfor %}
-
-- Dic 26, 2024 - [Winter Arc 2024](https://zettafounder.github.io/2024/12/26/winterarc2024.html)
-- Dic 26, 2024 - [PWD: AMORir](https://zettafounder.github.io/2024/12/26/amorir.html)
-- Dic 18, 2024 - [Elegir entre lo menos peor de las redes sociales](https://zettafounder.github.io/2024/12/18/lo-menos-peor-de-redes-sociales.html)
-- Nov 7, 2024 - [Ideas millonarias](https://zettafounder.github.io/2024/11/07/ideas-millonarias.html)
-- Oct 19, 2024 - [Somos curadores de contenido para las grandes empresas](https://zettafounder.github.io/2024/10/19/somos-curadores-de-contenido-para-las-grandes-empresas.html)
-- Oct 16, 2024 - [I NEED A REASON TO EXIST](https://zettafounder.github.io/2024/10/16/i-need-a-reason-to-exist.html)
-- Oct 16, 2024 - [Constancia, paciencia y disciplina](https://zettafounder.github.io/2024/10/16/constancia-paciencia-disciplina.html)
-- Oct 1, 2024 - [Respirar agua](https://zettafounder.github.io/2024/10/01/respirar-agua.html)
+    {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></li> 
+{% endfor %}</ul>
 
 ## Fin de temporada
 
