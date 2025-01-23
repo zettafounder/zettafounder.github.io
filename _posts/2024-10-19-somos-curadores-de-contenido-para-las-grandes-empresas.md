@@ -4,6 +4,7 @@ author: Zetta Founder
 title: "Somos curadores de contenido para las grandes empresas"
 category: personal
 tags: pensamientos
+season: zf0
 date: 2024-10-19 05:00:00 -0600
 ---
 

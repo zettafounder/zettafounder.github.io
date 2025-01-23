@@ -3,7 +3,8 @@ layout: post
 author: Zetta Founder
 title: "Tengo más energía de la que tenía antes"
 category: personal
-tag: pensamientos
+tags: pensamientos, jpz0
+season: jpz0
 date: 2024-06-24 05:00:00 -0600
 ---
 

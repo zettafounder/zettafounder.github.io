@@ -119,7 +119,5 @@ Mi contenido organizado en 7 areas:
     {%- endif -%} - <a href=".{{ post.url }}"><strong>{{ post.title }}</strong></a></p> 
 {% endfor %}
 
-Feed: <a target="_blank" href="https://zettafounder.github.io/feed.xml"><strong>RSS</strong></a>
-
 <hr>
 <br>

@@ -4,6 +4,7 @@ author: Zetta Founder
 title: "La importancia de un sistema y buenos hábitos"
 categories: productividad
 tags: habitos, mentalidad, sistemas, rutina
+season: jpz0
 date: 2024-07-17 05:00:00 -0600
 ---
 

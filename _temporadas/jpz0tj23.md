@@ -23,6 +23,20 @@ Esta temporada inicio antes de siquiera imaginar escribir un blog, a media tempo
 
 ## Posts de la temporada
 
+{% for post in site.tags["jpz0"] %}
+  <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+      {{ post.date | date: date_format }}
+    </time>
+    {%- if post.modified_date -%}
+      ~ 
+      {%- assign mdate = post.modified_date | date_to_xmlschema -%}
+      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+        {{ mdate | date: date_format }}
+      </time>
+    {%- endif -%} - <a href=".{{ post.url }}"><strong>{{ post.title }}</strong></a></p> 
+{% endfor %}
+
 - Jul 25, 2024 - [¿Cómo tener un día perfecto?](https://zettafounder.github.io/2024/07/25/como-tener-un-buen-dia.html)
 - Jul 17, 2024 - [La importancia de un sistema y buenos hábitos](https://zettafounder.github.io/2024/07/17/la-importancia-de-un-sistema-y-buenos-habitos.html)
 - Jul 8, 2024 - [¿Qué es la vida?](https://zettafounder.github.io/2024/07/08/que-es-la-vida.html)

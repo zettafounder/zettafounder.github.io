@@ -4,6 +4,7 @@ author: Zetta Founder
 title: "Ideas millonarias"
 category: personal
 tags: pensamientos
+season: zf0
 date: 2024-11-07 06:00:00 -0600
 ---
 

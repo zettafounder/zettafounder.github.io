@@ -4,6 +4,7 @@ author: Zetta Founder
 title: "I NEED A REASON TO EXIST"
 category: personal
 tags: blog
+season: zf0
 date: 2024-10-16 20:00:00 -0600
 ---
 ![i-need-a-reason-to-exist.jpg](../../../assets/images/i-need-a-reason-to-exist.jpg)
