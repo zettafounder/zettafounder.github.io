@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Blog
+title: "Blog: Personal"
 ---
 
 > Personal - Cuerpo - Mente - Productividad - Trabajo - Relaciones - Legado
 
-{% for post in site.posts %}
+{% for post in site.categories[personal] %}
   <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ post.date | date: date_format }}
