@@ -26,7 +26,7 @@ Esta temporada inicio antes de siquiera imaginar escribir un blog, a media tempo
 {% for post in site.tags["jpz0"] %}
   <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-      {{ post.date | date: date_format }}
+      - {{ post.date | date: date_format }}
     </time>
     {%- if post.modified_date -%}
       ~ 
@@ -34,7 +34,7 @@ Esta temporada inicio antes de siquiera imaginar escribir un blog, a media tempo
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%} - <a href=".{{ post.url }}"><strong>{{ post.title }}</strong></a></p> 
+    {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
 {% endfor %}
 
 - Jul 25, 2024 - [¿Cómo tener un día perfecto?](https://zettafounder.github.io/2024/07/25/como-tener-un-buen-dia.html)
