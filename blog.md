@@ -2,9 +2,6 @@
 layout: page
 title: Blog
 ---
-
-> Personal - Cuerpo - Mente - Productividad - Trabajo - Relaciones - Legado
-
 {% for post in site.posts %}
   <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
